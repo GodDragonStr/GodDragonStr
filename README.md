@@ -1,6 +1,9 @@
-### Hi there 👋
+#心有三千大世界 做好一个平常人![056A3003](https://github.com/user-attachments/assets/c9115828-a4fd-4681-b18a-a8b145047656)
+
 
 <!--
+### Hi there 👋
+
 **GodDragonStr/GodDragonStr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
